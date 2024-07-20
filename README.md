@@ -9,7 +9,7 @@
   "tag": "geosite-wechat",
   "type": "remote",
   "format": "source",
-  "url": "https://raw.githubusercontent.com/Toperlock/sing-box-geosite/main/wechat.json",
+  "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Toperlock/sing-box-geosite/main/wechat.json",
   "download_detour": "auto"
 }
 ```
